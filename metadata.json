@@ -1,0 +1,7 @@
+{
+  "name": "Lecture Pilot",
+  "description": "A Lecture Summarization & Revision Engine that converts long educational videos into exam-ready, searchable, structured learning assets using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
